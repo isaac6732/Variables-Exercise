@@ -30,6 +30,8 @@ namespace VariablesExercise
             Console.WriteLine("Enter in your pet's weight:");
             string petsweight = Console.ReadLine();
 
+            Console.WriteLine($"{petsName} {petsAge} {petsweight}");
+
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
