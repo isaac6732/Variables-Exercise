@@ -27,3 +27,4 @@ C:\Users\missi\Desktop\repos\VariablesExercise\VariablesExercise\VariablesExerci
 C:\Users\missi\Desktop\repos\VariablesExercise\VariablesExercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.pdb
 C:\Users\missi\Desktop\repos\VariablesExercise\VariablesExercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.genruntimeconfig.cache
 C:\Users\missi\Desktop\repos\VariablesExercise\VariablesExercise\VariablesExercise\obj\Debug\net6.0\ref\VariablesExercise.dll
+C:\Users\missi\Desktop\repos\VariablesExercise\VariablesExercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.sourcelink.json
